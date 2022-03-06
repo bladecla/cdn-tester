@@ -1,4 +1,4 @@
-class v1 {
+export default class v1 {
   constructor(){
     console.log("initiated")
   }
